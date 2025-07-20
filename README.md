@@ -1,6 +1,6 @@
 <h1>Cajero automatico en Python🐍</h1>
 
->Este es un protecto simple de simulación de un cajero automatico, Hecho como práctica mientras aprendo Python
+>Este es un proyecto simple de simulación de un cajero automatico, Hecho como práctica mientras aprendo Python
 
 📌Funcionalidades:
 Mediante un menú de opciones:
