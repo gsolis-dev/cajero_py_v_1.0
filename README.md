@@ -1,26 +1,39 @@
-<h1>Cajero automatico en Python🐍</h1>
+📌 Funcionalidades
 
->Este es un proyecto simple de simulación de un cajero automatico, Hecho como práctica mientras aprendo Python
+Mediante un menú de opciones permite:
 
-📌Funcionalidades:
-Mediante un menú de opciones:
-<p>-Realiza depositos</p>
-<p>-Realiza retiros y evalua si el saldo es suficiente.</p>
-<p>-Maneja Historial de Transferencia con listas.</p>
-<p>-Imprime saldo.</p>
-<p>-Opción Salir para romper el bucle.</p>
+Consultar el saldo disponible.
 
-📌Aprendizajes aplicados:
-<p>-Uso de condiciones(if, elif, else).</p>
-<p>-Listas y variables.</p>
-<p>-Bucles While y for(True, break, exit()).</p>
-<p>-Entrada y salida de datos con Input y print().</p>
+Realizar depósitos.
 
-📌Versión:
-<p>V_1.0: Sin interfaz grafica, solo consola.</p>
+Realizar retiros y comprobar si el saldo es suficiente.
 
->Proximamente: versión con interfaz usando Tkinter
+Consultar el historial de movimientos mediante listas.
 
-<h3>Autor:</h3>
+Salir del programa mediante una opción del menú.
 
->gsolis-dev⚡
+📌 Aprendizajes aplicados
+
+Uso de condiciones (if, elif, else).
+
+Manejo de listas y variables.
+
+Bucles while y for.
+
+Uso de funciones para organizar el código.
+
+Entrada y salida de datos con input() y print().
+
+Manejo de excepciones con try y except.
+
+📌 Versión
+
+V1.0: Primera versión desarrollada en consola, utilizando funciones para organizar las operaciones del cajero.
+
+🚀 Próximamente
+
+Una versión con interfaz gráfica utilizando Tkinter.
+
+👨‍💻 Autor
+
+gsolis-dev ⚡
