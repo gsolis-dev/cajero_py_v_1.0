@@ -30,9 +30,7 @@ Manejo de excepciones con try y except.
 
 V1.0: Primera versión desarrollada en consola, utilizando funciones para organizar las operaciones del cajero.
 
-🚀 Próximamente
 
-Una versión con interfaz gráfica utilizando Tkinter.
 
 👨‍💻 Autor
 
